@@ -6,7 +6,7 @@ A collection of personal configuration files that aren't typically synced across
 **Currently includes**:
 * `vimrc`
     * Config for vim (though still very basic for the moment)
-    * Dir: `~/vimrc`
+    * Dir: `~/.vimrc`
 * `tmux.conf`
     * Config for tmux
     * Adapted from [tony's](https://github.com/tony/tmux-config)
