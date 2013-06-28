@@ -1,7 +1,7 @@
-configs
-=================
+configs and dotfiles
+=====================
 
-A collection of personal configuration files that aren't typically synced across machines otherwise.
+A collection of personal dotfiles and configuration files that aren't typically synced across machines otherwise.
 
 **Currently includes**:
 * `vimrc`
