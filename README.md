@@ -11,3 +11,6 @@ A collection of personal dotfiles and configuration files that aren't typically 
     * Config for tmux
     * Adapted from [tony's](https://github.com/tony/tmux-config)
     * Dir: `~/.tmux.conf`
+* `nginx.conf`
+    * Config for Nginx web server at flyingsparx.net
+    * Dir: `/etc/nginx/nginx.conf` (on Arch)
