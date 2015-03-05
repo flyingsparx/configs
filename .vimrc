@@ -1,6 +1,13 @@
+set nocompatible 
+filetype off
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+Plugin 'scrooloose/nerdtree'
+call vundle#end() 
+filetype plugin indent on 
+
 syntax on
+set expandtab
 set tabstop=4
-set et|retab
 set number
-set smartindent
 set shiftwidth=4
