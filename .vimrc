@@ -1,13 +1,18 @@
-set nocompatible 
-filetype off
+set nocompatible   
+filetype off  
+
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
+Plugin 'gmarik/vundle.vim'
 Plugin 'scrooloose/nerdtree'
-call vundle#end() 
-filetype plugin indent on 
+Plugin 'altercation/vim-colors-solarized'
+Plugin 'tomasr/molokai'
+Plugin 'nanotech/jellybeans.vim'
+Plugin 'Valloric/YouCompleteMe'
+call vundle#end()
 
-syntax on
+:set number
+syntax enable
+set tabstop=2
+set shiftwidth=2
 set expandtab
-set tabstop=4
-set number
-set shiftwidth=4

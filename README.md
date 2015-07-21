@@ -5,7 +5,8 @@ A collection of personal dotfiles and configuration files that aren't typically 
 
 **Currently includes**:
 * `vimrc`
-    * Config for vim (though still very basic for the moment)
+    * Simple vim conf for servers/etc.
+    * For YouCompleteMe (YCM) see [installation guide](https://github.com/Valloric/YouCompleteMe#full-installation-guide)
     * Dir: `~/.vimrc`
 * `tmux.conf`
     * Config for tmux
